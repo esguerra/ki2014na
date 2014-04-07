@@ -1,0 +1,122 @@
+HEADER    TRANSCRIPTION/DNA                       06-DEC-06   2O61              
+TITLE     CRYSTAL STRUCTURE OF NFKB, IRF7, IRF3 BOUND TO THE INTERFERON-B       
+TITLE    2 ENHANCER                                                             
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: 36-MER;                                                    
+COMPND   3 CHAIN: E;                                                            
+COMPND   4 ENGINEERED: YES;                                                     
+COMPND   5 MOL_ID: 2;                                                           
+COMPND   6 MOLECULE: 34-MER;                                                    
+COMPND   7 CHAIN: F;                                                            
+COMPND   8 ENGINEERED: YES;                                                     
+COMPND   9 MOL_ID: 3;                                                           
+COMPND  10 MOLECULE: TRANSCRIPTION FACTOR P65/INTERFERON REGULATORY FACTOR      
+COMPND  11 7/INTERFERON REGULATORY FACTOR 3 FUSION PROTEIN;                     
+COMPND  12 CHAIN: A;                                                            
+COMPND  13 ENGINEERED: YES;                                                     
+COMPND  14 MOL_ID: 4;                                                           
+COMPND  15 MOLECULE: NUCLEAR FACTOR NF-KAPPA-B P105 SUBUNIT;                    
+COMPND  16 CHAIN: B;                                                            
+COMPND  17 FRAGMENT: RHR REGION;                                                
+COMPND  18 SYNONYM: DNA-BINDING FACTOR KBF1, EBP-1;                             
+COMPND  19 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 MOL_ID: 2;                                                           
+SOURCE   4 SYNTHETIC: YES;                                                      
+SOURCE   5 MOL_ID: 3;                                                           
+SOURCE   6 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE   7 ORGANISM_COMMON: HUMAN;                                              
+SOURCE   8 ORGANISM_TAXID: 9606;                                                
+SOURCE   9 EXPRESSION_SYSTEM: ESCHERICHIA COLI;                                 
+SOURCE  10 EXPRESSION_SYSTEM_TAXID: 562;                                        
+SOURCE  11 MOL_ID: 4;                                                           
+SOURCE  12 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE  13 ORGANISM_COMMON: HUMAN;                                              
+SOURCE  14 ORGANISM_TAXID: 9606;                                                
+SOURCE  15 GENE: NFKB1;                                                         
+SOURCE  16 EXPRESSION_SYSTEM: ESCHERICHIA COLI;                                 
+SOURCE  17 EXPRESSION_SYSTEM_TAXID: 562                                         
+KEYWDS    PROTEIN-DNA COMPLEX, TRANSCRIPTION-DNA COMPLEX                        
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    D.PANNE                                                               
+REVDAT   4   07-DEC-11 2O61    1       CAVEAT VERSN                             
+REVDAT   3   17-NOV-10 2O61    1       REMARK                                   
+REVDAT   2   24-FEB-09 2O61    1       VERSN                                    
+REVDAT   1   24-JUL-07 2O61    0                                                
+JRNL        AUTH   D.PANNE,T.MANIATIS,S.C.HARRISON                              
+JRNL        TITL   AN ATOMIC MODEL OF THE INTERFERON-BETA ENHANCEOSOME.         
+JRNL        REF    CELL(CAMBRIDGE,MASS.)         V. 129  1111 2007              
+JRNL        REFN                   ISSN 0092-8674                               
+JRNL        PMID   17574024                                                     
+JRNL        DOI    10.1016/J.CELL.2007.05.019                                   
+HELIX    1   1 LYS A  122  ARG A  124  5                                   3    
+HELIX    2   2 ASP A  125  THR A  136  1                                  12    
+HELIX    3   3 SER A  240  ALA A  242  5                                   3    
+HELIX    4   4 ARG A  274  ARG A  278  5                                   5    
+HELIX    5   5 LEU A 1013  GLY A 1025  1                                  13    
+HELIX    6   6 GLU A 1054  ASP A 1056  5                                   3    
+HELIX    7   7 ALA A 1057  ARG A 1067  1                                  11    
+HELIX    8   8 ALA A 1083  ARG A 1103  1                                  21    
+HELIX    9   9 LEU A 2009  GLY A 2019  1                                  11    
+HELIX   10  10 GLN A 2048  ASP A 2050  5                                   3    
+HELIX   11  11 PHE A 2051  ALA A 2060  1                                  10    
+HELIX   12  12 ASP A 2072  ASN A 2085  1                                  14    
+HELIX   13  13 TYR B   57  GLY B   61  5                                   5    
+HELIX   14  14 LYS B  146  ARG B  161  1                                  16    
+HELIX   15  15 GLY B  187  MET B  205  1                                  19    
+HELIX   16  16 GLN B  274  ASP B  276  5                                   3    
+HELIX   17  17 SER B  299  THR B  301  5                                   3    
+SHEET    1   A 3 TYR A  20  GLU A  25  0                                        
+SHEET    2   A 3 THR A  60  ASN A  64 -1  O  THR A  60   N  ILE A  24           
+SHEET    3   A 3 ILE A 110  SER A 112 -1  O  HIS A 111   N  ILE A  61           
+SHEET    1   B 3 ARG A  35  TYR A  36  0                                        
+SHEET    2   B 3 GLY A 117  CYS A 120  1  O  CYS A 120   N  ARG A  35           
+SHEET    3   B 3 GLU A  89  VAL A  91 -1  N  GLU A  89   O  GLN A 119           
+SHEET    1   C 5 CYS A  95  ARG A  96  0                                        
+SHEET    2   C 5 PHE A  99  GLU A 103 -1  O  PHE A  99   N  ARG A  96           
+SHEET    3   C 5 THR A  71  VAL A  77 -1  N  ILE A  74   O  TYR A 100           
+SHEET    4   C 5 ALA A 156  ARG A 166 -1  O  GLN A 162   N  ARG A  73           
+SHEET    5   C 5 VAL A 178  LEU A 179 -1  O  VAL A 178   N  PHE A 161           
+SHEET    1   D 3 PRO A 172  ARG A 174  0                                        
+SHEET    2   D 3 ALA A 156  ARG A 166 -1  N  VAL A 165   O  LEU A 173           
+SHEET    3   D 3 ILE A 183  PHE A 184 -1  O  ILE A 183   N  VAL A 157           
+SHEET    1   E 4 ILE A 196  VAL A 199  0                                        
+SHEET    2   E 4 GLU A 211  CYS A 216 -1  O  LEU A 215   N  CYS A 197           
+SHEET    3   E 4 ALA A 249  ARG A 253 -1  O  ILE A 250   N  LEU A 214           
+SHEET    4   E 4 VAL A 244  HIS A 245 -1  N  HIS A 245   O  ALA A 249           
+SHEET    1   F 5 SER A 203  SER A 205  0                                        
+SHEET    2   F 5 MET A 284  LEU A 289  1  O  LEU A 289   N  GLY A 204           
+SHEET    3   F 5 VAL A 266  ARG A 273 -1  N  VAL A 268   O  PHE A 286           
+SHEET    4   F 5 GLU A 225  GLY A 230 -1  N  TYR A 227   O  GLN A 271           
+SHEET    5   F 5 TRP A 233  ARG A 236 -1  O  ALA A 235   N  PHE A 228           
+SHEET    1   G 4 GLN A1031  TRP A1032  0                                        
+SHEET    2   G 4 CYS A1039  PRO A1043 -1  O  ARG A1041   N  GLN A1031           
+SHEET    3   G 4 HIS A1119  LEU A1124 -1  O  TYR A1122   N  PHE A1040           
+SHEET    4   G 4 PHE A1105  ASN A1111 -1  N  ARG A1109   O  VAL A1121           
+SHEET    1   H 4 ALA A2025  TRP A2026  0                                        
+SHEET    2   H 4 PHE A2034  PRO A2037 -1  O  ARG A2035   N  ALA A2025           
+SHEET    3   H 4 HIS A2104  PHE A2109 -1  O  LYS A2105   N  ILE A2036           
+SHEET    4   H 4 LEU A2090  ARG A2096 -1  N  ARG A2091   O  GLU A2108           
+SHEET    1   I 3 TYR B  41  ILE B  44  0                                        
+SHEET    2   I 3 GLN B  81  CYS B  85 -1  O  LYS B  83   N  GLN B  43           
+SHEET    3   I 3 VAL B 131  GLY B 133 -1  O  VAL B 132   N  VAL B  82           
+SHEET    1   J 5 CYS B 116  GLU B 117  0                                        
+SHEET    2   J 5 ILE B 120  ALA B 125 -1  O  ILE B 120   N  GLU B 117           
+SHEET    3   J 5 ALA B  91  VAL B  98 -1  N  VAL B  93   O  VAL B 123           
+SHEET    4   J 5 VAL B 209  THR B 215 -1  O  ARG B 211   N  VAL B  98           
+SHEET    5   J 5 VAL B 232  TYR B 238 -1  O  ILE B 237   N  VAL B 210           
+SHEET    1   K 2 SER B 110  GLY B 113  0                                        
+SHEET    2   K 2 LEU B 137  LEU B 140 -1  O  LEU B 140   N  SER B 110           
+SHEET    1   L 2 PHE B 217  LEU B 218  0                                        
+SHEET    2   L 2 ARG B 227  ARG B 228 -1  O  ARG B 227   N  LEU B 218           
+SHEET    1   M 4 ILE B 250  MET B 253  0                                        
+SHEET    2   M 4 GLU B 265  CYS B 270 -1  O  LEU B 269   N  ARG B 252           
+SHEET    3   M 4 ALA B 308  LYS B 312 -1  O  PHE B 311   N  ILE B 266           
+SHEET    4   M 4 VAL B 303  HIS B 304 -1  N  HIS B 304   O  ALA B 308           
+SHEET    1   N 5 ALA B 257  CYS B 259  0                                        
+SHEET    2   N 5 LYS B 343  TYR B 348  1  O  TYR B 348   N  GLY B 258           
+SHEET    3   N 5 ALA B 325  ARG B 333 -1  N  VAL B 327   O  PHE B 345           
+SHEET    4   N 5 ILE B 278  GLU B 286 -1  N  ARG B 281   O  GLN B 330           
+SHEET    5   N 5 GLY B 290  PHE B 295 -1  O  GLY B 294   N  PHE B 282           
+END
